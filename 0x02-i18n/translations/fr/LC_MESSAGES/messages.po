@@ -1,14 +1,14 @@
 # French translations for PROJECT.
-# Copyright (C) 2023 ORGANIZATION
+# Copyright (C) 2024 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2023-02-28 15:44+0100\n"
-"PO-Revision-Date: 2023-02-28 15:44+0100\n"
+"POT-Creation-Date: 2024-08-27 13:43+0300\n"
+"PO-Revision-Date: 2024-08-27 13:43+0300\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: fr\n"
 "Language-Team: fr <LL@li.org>\n"
@@ -16,19 +16,5 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.11.0\n"
+"Generated-By: Babel 2.14.0\n"
 
-msgid "home_title"
-msgstr "Bienvenue chez Holberton"
-
-msgid "home_header"
-msgstr "Bonjour monde!"
-
-msgid "logged_in_as"
-msgstr "Vous êtes connecté en tant que %(username)s."
-
-msgid "not_logged_in"
-msgstr "Vous n'êtes pas connecté."
-
-msgid "current_time_is"
-msgstr "Nous sommes le %(current_time)s."
